@@ -1,0 +1,66 @@
+header{
+    position: absolute;
+    width: 99%;
+    height: 60px;
+    top: 0;
+    background-color: black;
+}
+
+.logo{
+    color: white;
+    font-size: 25px;
+    float: left;
+    padding-left: 5px;
+    line-height: 60px;
+}
+header ul{
+    list-style-type: none;
+    float: right;
+}
+header ul li{
+    float: left;
+    text-align: right;
+    padding-right: 20px;
+    font-size: 20px;
+    color: white;
+}
+
+main{
+    clear: both;
+    width: 95%;
+    margin: 0 auto;
+    margin-top: 80px;
+}
+.skyblue{
+    float: left;
+    width: 70%;
+    height: 400px;
+    background-color: skyblue;
+}
+.blue{
+    float: left;
+    width: 30%;
+    height: 400px;
+    background-color: blue;
+}
+footer{
+    position: absolute;
+    width: 99%;
+    height: 60px;
+    bottom: 0;
+    background-color: black;
+    line-height: 60px;
+    text-align: center;
+}
+.copy{
+    margin-left: 400px;
+    float: left;
+    color: white;
+    font-size: 20px;
+}
+.date{
+    float: left;
+    color: white;
+    font-size: 20px;
+    padding-left: 50px;
+}
